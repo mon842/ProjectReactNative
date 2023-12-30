@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "a366873c-51c3-43d8-8a1a-fc0c46d7f145"
+      }
+    },
+    "android": {
+      "package": "com.rnapp.rnapp"
+    }
+  }
+}
